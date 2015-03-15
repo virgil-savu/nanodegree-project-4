@@ -71,3 +71,17 @@ Feeling uninspired by the portfolio? Here's a list of cool portfolios I found af
 * <a href="http://nicoledominguez.com/portfolio/">http://nicoledominguez.com/portfolio/</a>
 * <a href="http://www.roxannecook.com/">http://www.roxannecook.com/</a>
 * <a href="http://www.84colors.com/portfolio.html">http://www.84colors.com/portfolio.html</a>
+
+# Project 4 - Part 1
+The optimization was made by minifying css, async javascript and reducing the size of the images used.
+
+# Project 4 - Part 2
+The optimization was made by reducing the number of pizza generated from 200 to only 32, optimiziong the images and using getElementById instead of querySelector.
+
+Resources used:
+
+* <a href="http://cssminifier.com/">http://cssminifier.com/</a>
+* <a href="http://jsperf.com/getelementbyid-vs-queryselector/137">http://jsperf.com/getelementbyid-vs-queryselector/137</a>
+* Stackoverflow
+
+
