@@ -77,6 +77,7 @@ The optimization was made by minifying css, async javascript and reducing the si
 
 # Project 4 - Part 2
 The optimization was made by reducing the number of pizza generated from 200 to only 32, optimiziong the images and using getElementById instead of querySelector.
+Pizza resizing: moved all variable declaration outside the for loop.
 
 Resources used:
 
